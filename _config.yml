@@ -85,7 +85,7 @@ author:
   bio              : "RNA and structural biology enthusiast | PhD student in Computer Science"
   location         : "Virginia, US"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAW569aRbI9Basor1yVSG4MXdRffxkNpm2457nsdgEN3AHJMKkQa0hhhFkAljwBRAkAMI0PrOJ1FNqtUoA&user=h52IE78AAAAJ"
   email            :  sumit107756@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Sumit-Tarafder"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
