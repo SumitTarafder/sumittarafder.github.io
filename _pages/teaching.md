@@ -29,7 +29,8 @@ table, tr, td {
 	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <br>
 	<a href="https://cse.uiu.ac.bd/"> Department of Computer Science and Engineering (CSE)</a> <br>
         
-	I was the primary instructor and coordinator for a wide range of undergraduate-level theory and practical courses such as: <be>
+	I was the primary instructor and coordinator for a wide range of undergraduate-level theory <be> 
+ 	and practical courses such as: <br>
 </p>
  
 1. CSE-323: Computer Networks <br> 
