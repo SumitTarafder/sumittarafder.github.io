@@ -9,6 +9,7 @@ author_profile: true
 <style>
 table, tr, td {
     border: none;
+	font-size: 14px;
 }
   
 </style>
