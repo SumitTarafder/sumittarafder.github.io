@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Work/
+permalink: /work/
 urlcolor: blue
 author_profile: true
 ---
