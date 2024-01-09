@@ -22,7 +22,7 @@ table, tr, td {
 	</colgroup>
 
 <tr>
-<td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg" /> </td>
+<td> ![alt text](https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg?raw=true) </td>
 <td> <b> Lecturer, May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
