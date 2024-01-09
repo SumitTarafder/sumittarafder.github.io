@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+permalink: /Work/
 urlcolor: blue
 author_profile: true
 ---
@@ -9,16 +8,27 @@ author_profile: true
 <style>
 table, tr, td {
     border: none;
-	font-size: 14px;
+	font-size: 16px;
 }
   
 </style>
-<div style="height:350px;overflow:auto;border:0px;border-collapse: collapse;" >
+<div style="height:500px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
        	<col span="1" style="width: 25%;">
        	<col span="1" style="width: 75%;">
 	</colgroup>
+
+<tr>
+<td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
+<td> 
+<p>
+	Supervisor: [Prof. Debswapna Bhattacharya](https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html). Lab: (Bhattacharya-Lab)[https://github.com/Bhattacharya-Lab] <be>
+
+ 	Specifically working on the quality assessment, refinement, and prediction of the 3D structure of RNA macromolecules and associated complexes.
+</p>
+</td>
+</tr>
 
 <tr>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
