@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋, I am a second-year Ph.D. student at [Virginia Tech](https://www.vt.edu) in the [Department of Computer Science](https://cs.vt.edu). Before that, I completed my M.Sc. and B.Sc. in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/#/).
+Hi 👋, I am a second-year Ph.D. student at [Virginia Tech](https://www.vt.edu) in the [Department of Computer Science](https://cs.vt.edu). Before that, I completed my M.Sc. and B.Sc. in Computer Science and Engineering from [BUET](https://www.buet.ac.bd/web/#/).
 
 
 My research interests are mainly in the fields of Bioinformatics and Computational biology. I am enthusiastic about my research and aim to develop my career in the understanding of  molecular elements characteristics in etiology and develop novel methodology as a computational tool to deal with the vast data in genomics and proteomics.
