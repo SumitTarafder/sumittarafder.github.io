@@ -9,19 +9,19 @@ author_profile: true
 <style>
 table, tr, td {
     border: none;
-	font-size: 18px;
+	font-size: 14px;
 }
   
 </style>
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       	<col span="1" style="width: 30%;">
-       	<col span="1" style="width: 70%;">
+       	<col span="1" style="width: 25%;">
+       	<col span="1" style="width: 75%;">
 	</colgroup>
 
 <tr>
-<td> <b> Lecturer, May 2017 - Oct. 2021 </b> </td> 
+<td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
 	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <br>
