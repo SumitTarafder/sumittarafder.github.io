@@ -16,13 +16,11 @@ table, tr, td {
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       	<col span="1" style="width: 10%;">
-	<col span="1" style="width: 25%;">
-       	<col span="1" style="width: 65%;">
+       	<col span="1" style="width: 30%;">
+       	<col span="1" style="width: 70%;">
 	</colgroup>
 
 <tr>
-<td> ![alt text](https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg?raw=true) </td>
 <td> <b> Lecturer, May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
