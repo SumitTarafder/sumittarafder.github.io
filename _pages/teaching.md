@@ -25,7 +25,7 @@ table, tr, td {
 <td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg" /> </td>
 <td> <b> Lecturer, May 2017 - Oct. 2021 </b> </td> 
 <td> 
-<p>
+
 	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <br>
 	<a href="https://cse.uiu.ac.bd/"> Department of Computer Science and Engineering (CSE)</a> <br>
         
@@ -37,6 +37,5 @@ table, tr, td {
 4. CSE 1325 - Digital Logic Design <br>
 5. CSE 429 -  Digital System Design <br>
 
-</p> 
 </td>
 </tr>
