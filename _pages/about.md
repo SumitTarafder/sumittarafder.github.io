@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome to my website!"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,4 +26,4 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 	</colgroup>
 
-<tr><td> <b> Nov 2023: </b> </td> <td> Our recent paper titled: "lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565599v1">bioRxiv</a> </td></tr>
+<tr><td> <b> Nov 2023: </b> </td> <td> Our recent paper titled: "lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565599v1">bioRxiv</a>. </td></tr>
