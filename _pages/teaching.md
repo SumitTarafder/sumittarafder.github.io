@@ -9,7 +9,7 @@ author_profile: true
 <style>
 table, tr, td {
     border: none;
-	font-size: 14px;
+	font-size: 18px;
 }
   
 </style>
@@ -17,18 +17,25 @@ table, tr, td {
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
        	<col span="1" style="width: 10%;">
-	<col span="1" style="width: 30%;">
-       	<col span="1" style="width: 60%;">
+	<col span="1" style="width: 25%;">
+       	<col span="1" style="width: 65%;">
 	</colgroup>
 
 <tr>
-<td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"/> </td>
-<td> <b> Lecturer, Jul. 2017 - Jun. 2019 </b> </td> 
+<td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg" /> </td>
+<td> <b> Lecturer, May 2017 - Oct. 2021 </b> </td> 
 <td> 
-United International University (UIU), Dhaka, Bangladesh
-Department of Computer Science and Engineering (CSE)
-I was the primary instructor for undergraduate level theory courses. Throughout three years I designed and instructed the following undergraduate level courses to more than 300 students:
-1. CSE-477: Network Security (Summer-17, Spring-18, Summer-18, Fall-18)
-2. CSE-315: Data communications (Spring-18, Summer-18) 
+<p>
+	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <be>
+	<a href="https://cse.uiu.ac.bd/"> Department of Computer Science and Engineering (CSE)</a> <be>
+        
+	I was the primary instructor and coordinator for a wide range of undergraduate-level theory and practical courses during the four and a half year period such as: <br> 
+1. CSE-323: Computer Networks <br> 
+2. CSE-315: Data communications <be>
+3. CSE-1111: Structured Programming Language <br>
+4. CSE 1325 - Digital Logic Design <br>
+5. CSE 429 -  Digital System Design <br>
+
+</p> 
 </td>
 </tr>
