@@ -13,7 +13,7 @@ table, tr, td {
 }
   
 </style>
-<div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
+<div style="height:350px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
        	<col span="1" style="width: 25%;">
