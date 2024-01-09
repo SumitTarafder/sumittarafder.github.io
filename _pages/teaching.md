@@ -27,15 +27,15 @@ table, tr, td {
 	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <br>
 	<a href="https://cse.uiu.ac.bd/"> Department of Computer Science and Engineering (CSE)</a> <br>
         
-	I was the primary instructor and coordinator for a wide range of undergraduate-level theory <be> 
+	I was the primary instructor and coordinator for a wide range of undergraduate-level theory <br> 
  	and practical courses such as: <br>
 
  
 1. CSE-323: Computer Networks <br> 
-2. CSE-315: Data communications <be>
+2. CSE-315: Data communications <br>
 3. CSE-1111: Structured Programming Language <br>
 4. CSE 1325 - Digital Logic Design <br>
-5. CSE 429 -  Digital System Design <br>
+5. CSE 429 -  Digital System Design
 </p>
 </td>
 </tr>
