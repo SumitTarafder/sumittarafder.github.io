@@ -14,11 +14,9 @@ author_profile: true
 [2] asdasdasd
 
 ---
-[3] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
+[3] [[PDF](../files/Figbird.pdf)] [[Source](https://github.com/SumitTarafder/Figbird)] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
     <a href="https://doi.org/10.1093/bioinformatics/btac404">"Figbird: a probabilistic method for filling gaps in genome assemblies"</a>, Bioinformatics, Volume 38, Issue 15, 1 August 2022, Pages 3717–3724. Impact Factor: 5.8 <br>
-    <i class="fa fa-file-pdf-o" style="font-size: 24px;"></i> <a href="../files/Figbird.pdf">PDF</a>,
-    ![Alt text](https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/sourcecode.png){:width="3px" height="3px"}  <a href="https://github.com/SumitTarafder/Figbird" > Source Code </a>
-
+    
 ---
 
 [4] **Sumit Tarafder**, Md. Toukir Ahmed, Sumaiya Iqbal, Md Tamjidul Hoque, M. Sohel Rahman <br>
