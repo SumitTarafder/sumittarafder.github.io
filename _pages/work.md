@@ -49,10 +49,10 @@ table, tr, td {
 	I was the primary instructor and coordinator for a wide range of undergraduate-level theory and practical courses such as: <br>
 
 <ul>
-  <li>CSE-323: Computer Networks</li>
-  <li>CSE-315: Data communications</li>
-  <li>CSE 429 -  Digital System Design</li>
-  <li>CSE1111 - Structured Programming Language</li>
+  <li>CSE-323 : Computer Networks</li>
+  <li>CSE-315 : Data communications</li>
+  <li>CSE-429 : Digital System Design</li>
+  <li>CSE-1111: Structured Programming Language</li>
 
 </ul>
  
