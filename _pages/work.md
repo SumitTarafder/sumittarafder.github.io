@@ -15,14 +15,17 @@ table, tr, td {
 <div style="height:500px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       	<col span="1" style="width: 25%;">
-       	<col span="1" style="width: 75%;">
+       	<col span="1" style="width: 10%;">
+	<col span="1" style="width: 25%;">
+       	<col span="1" style="width: 65%;">
 	</colgroup>
 
 <tr>
+<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
+	<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
 	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a> <br>
  	Lab: <a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a>
 		
