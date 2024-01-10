@@ -21,12 +21,12 @@ table, tr, td {
 	</colgroup>
 
 <tr>
-<td> <img src="files/Lab.jpg"></td>
+<td> <img src="../files/Lab.jpg"></td>
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
 	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a> <br>
- 	Lab: <a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a> <br>
+ 	Lab: <a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a> <br><br>
 		
  	Specifically working on the quality assessment, refinement, and prediction of the 3D structure of RNA macromolecules and associated complexes.
 
@@ -36,7 +36,7 @@ table, tr, td {
 </tr>
 
 <tr>
-<td> <img src="files/UIU.jpg"></td>
+<td> <img src="../files/UIU.jpg"></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
