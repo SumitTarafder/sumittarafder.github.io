@@ -15,14 +15,16 @@ table, tr, td {
 <div style="height:500px;overflow:auto;border:0px;border-collapse: collapse;" >
 	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       	<col span="1" style="width: 10%;">
+       	<col span="1" style="width: 8%;">
 	<col span="1" style="width: 25%;">
-       	<col span="1" style="width: 65%;">
+	<col span="1" style="width: 5%;">
+       	<col span="1" style="width: 62%;">
 	</colgroup>
 
 <tr>
 <td> <img src="../files/Lab.jpg" width="48" height="48"></td>
-<td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
+<td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td>
+<td></td>
 <td> 
 	<p>
 	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a> <br>
@@ -38,6 +40,7 @@ table, tr, td {
 <tr>
 <td> <img src="../files/UIU.jpg" width="48" height="48"></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
+<td></td>
 <td> 
 <p>
 	<a href="https://www.uiu.ac.bd/">United International University (UIU)</a>, Dhaka, Bangladesh <br>
