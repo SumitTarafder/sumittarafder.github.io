@@ -25,7 +25,6 @@ table, tr, td {
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
-	<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
 	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a> <br>
  	Lab: <a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a>
 		
@@ -37,6 +36,7 @@ table, tr, td {
 </tr>
 
 <tr>
+<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
