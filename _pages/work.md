@@ -21,7 +21,7 @@ table, tr, td {
 	</colgroup>
 
 <tr>
-<td> <img src="../files/Lab.jpg"></td>
+<td> <img src="../files/Lab.jpg" width="48" height="48"></td>
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
@@ -36,7 +36,7 @@ table, tr, td {
 </tr>
 
 <tr>
-<td> <img src="../files/UIU.jpg" width="16" height="16"></td>
+<td> <img src="../files/UIU.jpg" width="48" height="48"></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
@@ -49,6 +49,7 @@ table, tr, td {
   <li>CSE-323: Computer Networks</li>
   <li>CSE-315: Data communications</li>
   <li>CSE 429 -  Digital System Design</li>
+  <li>CSE1111 - Structured Programming Language</li>
 
 </ul>
  
