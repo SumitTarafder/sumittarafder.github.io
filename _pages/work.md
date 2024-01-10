@@ -21,7 +21,7 @@ table, tr, td {
 	</colgroup>
 
 <tr>
-<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
+<td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></td>
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
@@ -36,7 +36,7 @@ table, tr, td {
 </tr>
 
 <tr>
-<td> <a href="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></a></td>
+<td> <img src="https://github.com/SumitTarafder/sumittarafder.github.io/blob/master/files/UIU.jpg"></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
