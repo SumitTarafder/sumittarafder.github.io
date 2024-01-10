@@ -8,12 +8,12 @@ author_profile: true
 &nbsp;
 
 [1] [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-<a href="https://doi.org/10.1101/2023.11.04.565599">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, bioRxiv, submitted. <br>
+<a href="https://doi.org/10.1101/2023.11.04.565599">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, bioRxiv, submitted, 2023. <br>
 
 ---
 
 [2] [[PDF](../files/EquiPNAS.pdf)] [[Source](https://github.com/Bhattacharya-Lab/EquiPNAS)] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
-<a href="https://doi.org/10.1101/2023.09.14.557719">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, bioRxiv, submitted. <br>
+<a href="https://doi.org/10.1101/2023.09.14.557719">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, bioRxiv, submitted, 2023. <br>
 
 ---
 [3] [[PDF](../files/Figbird.pdf)] [[Source](https://github.com/SumitTarafder/Figbird)] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
