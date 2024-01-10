@@ -21,7 +21,7 @@ table, tr, td {
 	</colgroup>
 
 <tr>
-<td> <img src="files/Lab.jpg"></td>
+<td> <img src="../files/Lab.jpg"></td>
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
