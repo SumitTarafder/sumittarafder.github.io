@@ -45,8 +45,6 @@ table, tr, td {
 <ul>
   <li>CSE-323: Computer Networks</li>
   <li>CSE-315: Data communications</li>
-  <li>CSE-1111: Structured Programming Language</li>
-  <li>CSE 1325 - Digital Logic Design</li>
   <li>CSE 429 -  Digital System Design</li>
 
 </ul>
