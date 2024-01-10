@@ -36,7 +36,7 @@ table, tr, td {
 </tr>
 
 <tr>
-<td> <img src="../files/UIU.jpg" width="128" height="128"></td>
+<td> <img src="../files/UIU.jpg" width="16" height="16"></td>
 <td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
 <td> 
 <p>
