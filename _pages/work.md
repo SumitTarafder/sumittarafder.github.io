@@ -17,8 +17,8 @@ table, tr, td {
 	<colgroup>
        	<col span="1" style="width: 8%;">
 	<col span="1" style="width: 25%;">
-	<col span="1" style="width: 5%;">
-       	<col span="1" style="width: 62%;">
+	<col span="1" style="width: 2%;">
+       	<col span="1" style="width: 65%;">
 	</colgroup>
 
 <tr>
