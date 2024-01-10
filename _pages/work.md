@@ -23,8 +23,8 @@ table, tr, td {
 <td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td> 
 <td> 
 	<p>
-	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a>
- 	<a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a>
+	Supervisor: <a href="https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html">Prof. Debswapna Bhattacharya</a> <br>
+ 	Lab: <a href="https://github.com/Bhattacharya-Lab">Bhattacharya-Lab</a>
 		
  	Specifically working on the quality assessment, refinement, and prediction of the 3D structure of RNA macromolecules and associated complexes.
 
