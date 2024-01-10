@@ -39,12 +39,15 @@ table, tr, td {
         
 	I was the primary instructor and coordinator for a wide range of undergraduate-level theory and practical courses such as: <br>
 
+<ul>
+  <li>CSE-323: Computer Networks</li>
+  <li>CSE-315: Data communications</li>
+  <li>CSE-1111: Structured Programming Language</li>
+  <li>CSE 1325 - Digital Logic Design</li>
+  <li>CSE 429 -  Digital System Design</li>
+
+</ul>
  
-1. CSE-323: Computer Networks <br> 
-2. CSE-315: Data communications <br>
-3. CSE-1111: Structured Programming Language <br>
-4. CSE 1325 - Digital Logic Design <br>
-5. CSE 429 -  Digital System Design
 </p>
 </td>
 </tr>
