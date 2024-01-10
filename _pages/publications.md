@@ -22,7 +22,7 @@ author_profile: true
 
 ---
 
-[4] **Sumit Tarafder**, Md. Toukir Ahmed, Sumaiya Iqbal, Md Tamjidul Hoque, M. Sohel Rahman <be>
+[4] **Sumit Tarafder**, Md. Toukir Ahmed, Sumaiya Iqbal, Md Tamjidul Hoque, M. Sohel Rahman <br>
 <i><a href="https://doi.org/10.1016/j.jtbi.2017.12.029">"RBSURFpred: Modeling Protein Accessible Surface Area in Real and Binary Space using Regularized and Optimized Regression"</a></i> <br>
 Journal of Theoretical Biology, Volume 441, 2018, 12 Jan 2018, Pages 44 - 57. Impact Factor: 2.0 <br>
 <i class="fa fa-file-pdf-o" style="font-size: 24px;"></i> <a href="../files/RBSurfPred.pdf">PDF</a>,
