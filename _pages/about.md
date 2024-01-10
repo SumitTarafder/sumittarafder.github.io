@@ -9,7 +9,7 @@ redirect_from:
 
 Hi 👋, I am a second-year Ph.D. student at [Virginia Tech](https://www.vt.edu) in the [Department of Computer Science](https://cs.vt.edu). Before that, I completed my M.Sc. and B.Sc. in Computer Science and Engineering from [BUET](https://www.buet.ac.bd/web/#/). My research interest primarily encompasses the intersection of structural bioinformatics and machine learning. 
 
-I aim to develop my career in the understanding of macromolecular elements, specifically RNA, and its intricate relationship with proteins which gives rise to an array of complex structures. Specifically, my current research focuses on the accurate quality assessment, refinement, and prediction of monomer RNA 3D structures with the application of cutting-edge machine learning frameworks such as graph neural networks (GNN), transformer architecture, etc. I am also interested in long read based genome sequencing and its accurate application in filling large chromosomal gaps.
+I aim to develop my career in the understanding of macromolecular elements, specifically RNA, and its intricate relationship with proteins which gives rise to an array of complex structures. Specifically, my current research focuses on the accurate quality assessment, refinement, and prediction of monomer RNA 3D structures with the application of machine learning algorithms such as graph neural networks (GNN) and attention-based transformers, etc. I am also interested in long read based genome sequencing and its accurate application in filling large chromosomal gaps.
 
 ### **Recent News**
 
