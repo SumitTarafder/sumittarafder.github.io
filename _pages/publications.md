@@ -5,6 +5,18 @@ permalink: /publications/
 urlcolor: blue
 author_profile: true
 ---
+
+<style>
+    a {
+      text-decoration: none; 
+    }
+
+    a:hover {
+      text-decoration: underline; 
+    }
+    
+</style>
+
 &nbsp;
 
 [1] [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)] **Sumit Tarafder**, Debswapna Bhattacharya <br>
