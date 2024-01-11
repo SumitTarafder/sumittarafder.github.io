@@ -19,11 +19,8 @@ author_profile: true
 
 &nbsp;
 
-[1] [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)] **Sumit Tarafder**, Debswapna Bhattacharya <be>
-<div>
-    <a href="https://doi.org/10.1101/2023.11.04.565599">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, bioRxiv, submitted, 2023. <be>
-
-</div>
+[1] [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+    <a href="https://doi.org/10.1101/2023.11.04.565599">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, bioRxiv, submitted, 2023. <br>
 
 ---
 
