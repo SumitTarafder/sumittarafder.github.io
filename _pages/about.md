@@ -25,8 +25,8 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 	</colgroup>
 
-<tr><td> <b> Nov 2023: </b> </td> <td> Our recent paper titled: "lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565599v1">bioRxiv</a>. </td></tr>
-
 <tr><td> <b> Jan 2024: </b> </td> <td> Our paper titled: "EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks" is accepted in ***NAR***
+	
+<tr><td> <b> Nov 2023: </b> </td> <td> Our recent paper titled: "lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures" is available in <a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565599v1">bioRxiv</a>. </td></tr>
 	
 </table>
