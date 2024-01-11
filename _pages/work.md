@@ -23,7 +23,7 @@ table, tr, td {
 
 <tr>
 <td> <img src="../files/Lab.jpg" width="48" height="48"></td>
-<td> <b> Graduate Research Assistant <br> Aug 2022 - Present </b> </td>
+<td> <b> Graduate Research Assistant </b> <br> Aug 2022 - Present </td>
 <td></td>
 <td> 
 	<p>
@@ -39,7 +39,7 @@ table, tr, td {
 
 <tr>
 <td> <img src="../files/UIU.jpg" width="48" height="48"></td>
-<td> <b> Lecturer <br> May 2017 - Oct. 2021 </b> </td> 
+<td> <b> Lecturer </b> <br> May 2017 - Oct. 2021 </td> 
 <td></td>
 <td> 
 <p>
