@@ -13,7 +13,7 @@ table, tr, td {
   
 </style>
 <div style="height:500px;overflow:auto;border:0px;border-collapse: collapse;" >
-	<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
+<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
        	<col span="1" style="width: 8%;">
 	<col span="1" style="width: 25%;">
@@ -59,3 +59,4 @@ table, tr, td {
 </p>
 </td>
 </tr>
+</table>
