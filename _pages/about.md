@@ -39,7 +39,7 @@ table, tr, td {
  
  <tr>
 	 <td> <b> Aug 2022: </b> </td>
-	 <td> Excited to join <a href="https://people.cs.vt.edu/dbhattacharya/">Bhattacharya Lab</a> to start my PhD journey.</td>
+	 <td> Excited to join <a href="https://people.cs.vt.edu/dbhattacharya/">Bhattacharya Lab</a> to start my PhD journey!</td>
   
 </tr>
 
