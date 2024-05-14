@@ -27,7 +27,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> Jan 2024: </b> </td> 
-	<td> Our paper titled: "EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks" is accepted in <b><i>NAR</i></b>. </td>
+	<td> Our paper titled: "EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks" is accepted in <b><i><a href="https://doi.org/10.1093/nar/gkae039">bioRxiv</a></i></b>. </td>
 	
 </tr>
 
