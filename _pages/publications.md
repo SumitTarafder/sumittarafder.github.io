@@ -20,7 +20,7 @@ author_profile: true
 &nbsp;
 
 [1] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
-<a href="https://doi.org/10.1093/nar/gkae039">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, NAR, volume 52, Issue 5, Page e27, 2024. [[PDF](../files/EquiPNAS.pdf)] [[Source](https://github.com/Bhattacharya-Lab/EquiPNAS)]<br>
+<a href="https://doi.org/10.1093/nar/gkae039">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, NAR, volume 52, Issue 5, Page e27, 21 March 2024.  Impact Factor: 14.9 [[PDF](../files/EquiPNAS.pdf)] [[Source](https://github.com/Bhattacharya-Lab/EquiPNAS)]<br>
 
 ---
 [2] **Sumit Tarafder**, Debswapna Bhattacharya <br>
