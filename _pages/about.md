@@ -27,13 +27,13 @@ table, tr, td {
 
 <tr>
 	<td> <b> July 2024: </b> </td> 
-	<td> Our paper titled: "EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks" is accepted in <b><i><a href="https://doi.org/10.1093/nar/gkae039">NAR</a></i></b>. </td>
+	<td> Presented our work lociPARSE as a poster with a flash talk at <b><i><a href="https://www.iscb.org/ismb2024/programme-schedule/posters">ISMB 2024</a></i></b> in Montreal, Canada. </td>
 	
 </tr>
 
 <tr>
 	<td> <b> July 2024: </b> </td> 
-	<td> Published my first paper as a PhD student!: "The landscape of RNA 3D structure modeling with transformer networks” is available <b><i><a href="https://doi.org/10.1093/biomethods/bpae047">here</a></i></b>. </td>
+	<td> Published my first paper as a PhD student! Title: "The landscape of RNA 3D structure modeling with transformer networks”. Available <b><i><a href="https://doi.org/10.1093/biomethods/bpae047">here</a></i></b>. </td>
 	
 </tr>
 
