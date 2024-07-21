@@ -20,7 +20,7 @@ author_profile: true
 &nbsp;
 
 [1] **Sumit Tarafder**, Rahmatullah Roche,  Debswapna Bhattacharya <br>
-<a href="https://doi.org/10.1093/biomethods/bpae047">"The landscape of RNA 3D structure modeling with transformer networks"</a>, Biology Methods and Protocols, Volume 9, Issue 1, bpae047, 02 July 2024.  Impact Factor: 2.5 [[PDF](../files/RNAMark.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAmark)]<br>
+<a href="https://doi.org/10.1093/biomethods/bpae047">"The landscape of RNA 3D structure modeling with transformer networks"</a>, Biology Methods and Protocols, Volume 9, Issue 1, Page 47, 02 July 2024.  Impact Factor: 2.5 [[PDF](../files/RNAMark.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAmark)]<br>
 
 ---
 
