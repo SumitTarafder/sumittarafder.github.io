@@ -27,7 +27,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> July 2024: </b> </td> 
-	<td> Presented our work lociPARSE as a poster with a flash talk at <b><i><a href="https://www.iscb.org/ismb2024/programme-schedule/posters">ISMB 2024</a></i></b> in Montreal, Canada. </td>
+	<td> Presented our work lociPARSE as a poster with a flash talk in the iRNA track at <b><i><a href="https://www.iscb.org/ismb2024/programme-schedule/posters">ISMB 2024</a></i></b> in Montreal, Canada. </td>
 	
 </tr>
 
