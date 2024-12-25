@@ -21,8 +21,8 @@ table, tr, td {
 <div style="height:150px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       <col span="1" style="width: 12%;">
-       <col span="1" style="width: 88%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
 	</colgroup>
 
 <tr>
