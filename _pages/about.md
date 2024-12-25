@@ -21,12 +21,12 @@ table, tr, td {
 <div style="height:150px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 85%;">
+       <col span="1" style="width: 12%;">
+       <col span="1" style="width: 88%;">
 	</colgroup>
 
 <tr>
-	<td> <b> November 2024: </b> </td> 
+	<td> <b> Nov 2024: </b> </td> 
 	<td> lociPARSE is now published in JCIM! Available <b><i><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01621?fig=fig1&ref=pdf">here</a></i></b>.</td>
 	
 </tr>
