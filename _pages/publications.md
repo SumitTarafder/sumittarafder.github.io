@@ -20,7 +20,7 @@ author_profile: true
 &nbsp;
 
 [1] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-    <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01621">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, Journal of Chemical Information and Modeling, Volume 64, Issue 22, Pages 8655–8664, 2024. [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)]<br>
+    <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01621">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, Journal of Chemical Information and Modeling, Volume 64, Issue 22, Pages 8655–8664, 2024. Impact Factor: 5.7 [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)]<br>
 
 ---
 
