@@ -19,18 +19,18 @@ author_profile: true
 
 &nbsp;
 
-[1] **Sumit Tarafder**, Rahmatullah Roche,  Debswapna Bhattacharya <br>
+[1] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+    <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01621">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, Journal of Chemical Information and Modeling, Volume 64, Issue 22, Pages 8655–8664, 2024. [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)]<br>
+
+---
+
+[2] **Sumit Tarafder**, Rahmatullah Roche,  Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1093/biomethods/bpae047">"The landscape of RNA 3D structure modeling with transformer networks"</a>, Biology Methods and Protocols, Volume 9, Issue 1, Page 47, 02 July 2024.  Impact Factor: 2.5 [[PDF](../files/RNAMark.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAmark)]<br>
 
 ---
 
-[2] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
+[3] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1093/nar/gkae039">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, NAR, volume 52, Issue 5, Page e27, 21 March 2024.  Impact Factor: 14.9 [[PDF](../files/EquiPNAS.pdf)] [[Source](https://github.com/Bhattacharya-Lab/EquiPNAS)]<br>
-
----
-
-[3] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-    <a href="https://doi.org/10.1101/2023.11.04.565599">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, bioRxiv, submitted, 2023. [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)]<br>
 
 ---
 [4] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
