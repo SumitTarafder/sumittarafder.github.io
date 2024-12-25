@@ -28,7 +28,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> Dec 2024: </b> </td> 
-	<td> Secured 11th position in recent competitive <b><i><a href="https://predictioncenter.org/casp16/index.cgi">CASP16</a></i></b>, hard done by streo checks..</td>
+	<td> Secured 11th position in recent competitive <b><i><a href="https://predictioncenter.org/casp16/index.cgi">CASP16</a></i></b>, hard done by stereo checks..</td>
 	
 </tr>
 
