@@ -28,7 +28,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> Jan 2025: </b> </td> 
-	<td> Our recent RNA 3D structure generation method: "<b><i>RNAbpFlow</i></b>>" is available in <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v1">bioRxiv</a>!</td>
+	<td> Our recent RNA 3D structure generation method: "<b><i>RNAbpFlow</i></b>" is available in <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v1">bioRxiv</a>!</td>
 	
 </tr>
 
