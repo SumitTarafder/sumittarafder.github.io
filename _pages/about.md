@@ -27,6 +27,13 @@ table, tr, td {
 
 
 <tr>
+	<td> <b> Jan 2025: </b> </td> 
+	<td> Our recent RNA 3D structure generation paper titled: "RNAbpFlow: Base pair-augmented SE(3)-flow matching
+ for conditional RNA 3D structure generation" is available in <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v1">bioRxiv</a>.</td>
+	
+</tr>
+
+<tr>
 	<td> <b> Dec 2024: </b> </td> 
 	<td> Secured 11th position in recent competitive <b><i><a href="https://predictioncenter.org/casp16/index.cgi">CASP16</a></i></b>, hard done by stereo checks..</td>
 	
