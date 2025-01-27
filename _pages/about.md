@@ -28,8 +28,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> Jan 2025: </b> </td> 
-	<td> Our recent RNA 3D structure generation paper titled: "RNAbpFlow: Base pair-augmented SE(3)-flow matching
- for conditional RNA 3D structure generation" is available in <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v1">bioRxiv</a>.</td>
+	<td> Our recent RNA 3D structure generation method: "<b><i>RNAbpFlow</i>b></b>i>" is available in <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v1">bioRxiv</a>!</td>
 	
 </tr>
 
