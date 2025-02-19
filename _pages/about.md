@@ -52,13 +52,13 @@ table, tr, td {
 </tr>
 
 <tr>
-	<td> <b> October 2024: </b> </td> 
+	<td> <b> Oct 2024: </b> </td> 
 	<td> Reviewer at <b><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857">IEEE/ACM Transactions on Computational Biology and Bioinformatics</a></b>.</td>
 	
 </tr>
 
 <tr>
-	<td> <b> September 2024: </b> </td> 
+	<td> <b> Sep 2024: </b> </td> 
 	<td> Sub-reviewer at <b><a href="https://wi-lab.com/cyberchair/2024/bibm24/index.php">IEE BIBM 2024</a></b>.</td>
 	
 </tr>
