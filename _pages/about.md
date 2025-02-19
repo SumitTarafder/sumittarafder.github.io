@@ -35,7 +35,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> Jan 2025: </b> </td> 
-	<td> Sub-reviewer at </td>
+	<td> Sub-reviewer at <b><a href="https://www.iscb.org/ismbeccb2025/home">ISMB/ECCB 2025</a></b>.</td>
 	
 </tr>
 
@@ -60,6 +60,12 @@ table, tr, td {
 <tr>
 	<td> <b> July 2024: </b> </td> 
 	<td> Published my first paper as a PhD student! Title: "The landscape of RNA 3D structure modeling with transformer networks”. Available <b><a href="https://doi.org/10.1093/biomethods/bpae047">here</a></b>. </td>
+	
+</tr>
+
+<tr>
+	<td> <b> June 2024: </b> </td> 
+	<td> Sub-reviewer at <b><a href="https://www.iscb.org/ismbeccb2025/home">BIOKDD 2024</a></b>.</td>
 	
 </tr>
 
