@@ -19,7 +19,7 @@ table, tr, td {
     border: none;
 }
 </style>
-<div style="height:200px;overflow:auto;border:0px;border-collapse: collapse;" >
+<div style="height:160px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 	<colgroup>
        <col span="1" style="width: 12%;">
