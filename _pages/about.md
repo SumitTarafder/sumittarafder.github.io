@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋, I am a third-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu). Before that, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/). My research interest primarily encompasses the intersection of structural bioinformatics and machine learning. 
+Hi 👋, I am a third-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/),I study RNA and protein-RNA interactions to develop deep learning methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring cutting-edge architectures like GNNs, transformers, and generative models to develop the computational approaches. 
 
-Specifically, I aim to develop my career in the understanding of complex macromolecules, specifically RNA, and its intricate relationship with proteins which gives rise to an array of complex structures. I work with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/) and my current research focuses on the development of deep learning based methods for accurate quality assessment, refinement, and prediction of monomer RNA 3D structures with the application of cutting-edge architectures such as graph neural networks (GNN), attention-based transformers, generative modeling etc. Beyond structural bioinformatics, I am also interested in short/long read based computational methods and their application in genome assembly, a project that I have worked for my MS thesis work prior to starting my PhD.
-
+Beyond structural bioinformatics, I am also interested in short/long read based computational methods and their application in genome assembly. Prior to starting my PhD, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/).
+ 
 ### **Recent News**
 
 <style>
