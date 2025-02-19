@@ -6,13 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="font-size: 14px;">
-Hi 👋, I am a third-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
-</p>
 
-<p style="font-size: 14px;">
+Hi 👋, I am a third-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
+
 Beyond structural bioinformatics, I am also interested in short/long read based computational methods and their application in genome assembly. Prior to starting my PhD, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/).
-</p>
+
  
 ### **Recent News**
 
@@ -54,8 +52,26 @@ table, tr, td {
 </tr>
 
 <tr>
+	<td> <b> October 2024: </b> </td> 
+	<td> Reviewer at <b><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857">IEEE/ACM Transactions on Computational Biology and Bioinformatics</a></b>.</td>
+	
+</tr>
+
+<tr>
+	<td> <b> September 2024: </b> </td> 
+	<td> Sub-reviewer at <b><a href="https://wi-lab.com/cyberchair/2024/bibm24/index.php">IEE BIBM 2024</a></b>.</td>
+	
+</tr>
+
+<tr>
 	<td> <b> July 2024: </b> </td> 
 	<td> Presented our work lociPARSE as a poster with a flash talk in the iRNA track at <b><a href="https://www.iscb.org/ismb2024/programme-schedule/posters">ISMB 2024</a></b>.</td>
+	
+</tr>
+
+<tr>
+	<td> <b> July 2024: </b> </td> 
+	<td> Sub-reviewer at <b><a href="https://wi-lab.com/cyberchair/2024/bibm24/index.php">IEE BIBM 2024</a></b>.</td>
 	
 </tr>
 
