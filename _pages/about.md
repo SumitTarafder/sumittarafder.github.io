@@ -65,7 +65,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> June 2024: </b> </td> 
-	<td> Sub-reviewer at <b><a href="https://www.iscb.org/ismbeccb2025/home">BIOKDD 2024</a></b>.</td>
+	<td> Sub-reviewer at <b><a href="https://biokdd.org/biokdd24/">BIOKDD 2024</a></b>.</td>
 	
 </tr>
 
