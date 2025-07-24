@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋, I am a third-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
+Hi 👋, I am a fourth-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
 
 Beyond structural bioinformatics, I am also interested in short/long read based computational methods and their application in genome assembly. Prior to starting my PhD, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/).
 
@@ -26,6 +26,12 @@ table, tr, td {
        <col span="1" style="width: 88%;">
 	</colgroup>
 
+
+<tr>
+	<td> <b> May 2025: </b> </td> 
+	<td> Attended <b><a href="https://www.iscb.org/glbio2025/home">GLBIO 2025</a></b> to present lociPARSE as full-length talk</td>
+	
+</tr>
 
 <tr>
 	<td> <b> Jan 2025: </b> </td> 
