@@ -29,7 +29,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> May 2025: </b> </td> 
-	<td> Attended <b><a href="https://www.iscb.org/glbio2025/home">GLBIO 2025</a></b> to present lociPARSE as full-length talk</td>
+	<td> Attended <b><a href="https://www.iscb.org/glbio2025/home">GLBIO 2025</a></b> to present lociPARSE as full-length talk.</td>
 	
 </tr>
 
