@@ -39,14 +39,20 @@ author_profile: true
 
 ---
 
-[5] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
+[5] **Sumit Tarafder**, Xinyu Wang, Rahmatullah Roche,  Debswapna Bhattacharya <br>
+<a href="https://doi.org/10.1007/978-1-0716-4623-6_9">"Advances in Language-Model-Informed Protein–Nucleic Acid Binding Site Prediction"</a>, Methods in Molecular Biology, protocol, Page 139-151, 03 July 2025.  Impact Factor: 1.3 <br>
+
+---
+
+[6] Rahmatullah Roche, Bernard Moussad, Md Hossain Shuvo, **Sumit Tarafder**, Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1093/nar/gkae039">"EquiPNAS: improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks"</a>, NAR, volume 52, Issue 5, Page e27, 21 March 2024.  Impact Factor: 14.9 [[PDF](../files/EquiPNAS.pdf)] [[Source](https://github.com/Bhattacharya-Lab/EquiPNAS)]<br>
 
 ---
-[6] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
+
+[7] **Sumit Tarafder**, Mazharul Islam, Swakkhar Shatabda, Atif Rahman <br>
     <a href="https://doi.org/10.1093/bioinformatics/btac404">"Figbird: a probabilistic method for filling gaps in genome assemblies"</a>, Bioinformatics, Volume 38, Issue 15, 1 August 2022, Pages 3717–3724. Impact Factor: 5.8 [[PDF](../files/Figbird.pdf)] [[Source](https://github.com/SumitTarafder/Figbird)]<br>
     
 ---
 
-[7] **Sumit Tarafder**, Md. Toukir Ahmed, Sumaiya Iqbal, Md Tamjidul Hoque, M. Sohel Rahman <br>
+[8] **Sumit Tarafder**, Md. Toukir Ahmed, Sumaiya Iqbal, Md Tamjidul Hoque, M. Sohel Rahman <br>
 <a href="https://doi.org/10.1016/j.jtbi.2017.12.029">"RBSURFpred: Modeling Protein Accessible Surface Area in Real and Binary Space using Regularized and Optimized Regression"</a>, Journal of Theoretical Biology, Volume 441, 12 Jan 2018, Pages 44 - 57. Impact Factor: 2.0 [[PDF](../files/RBSurfPred.pdf)] [[Source](https://github.com/SumitTarafder/RBSURFpred)]
