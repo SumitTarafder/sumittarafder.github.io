@@ -29,19 +29,19 @@ table, tr, td {
 
 <tr>
 	<td> <b> October 2025: </b> </td> 
-	<td> A fast scoring function for RNA: PARSEbp <b><a https://github.com/Bhattacharya-Lab/PARSEbp">is available in bioRxiv</a></b>.</td>
+	<td> A fast scoring function for RNA: PARSEbp <b><a href="https://github.com/Bhattacharya-Lab/PARSEbp">is available in bioRxiv</a></b>.</td>
 	
 </tr>
 
 <tr>
 	<td> <b> September 2025: </b> </td> 
-	<td> Proud to be featured in <b><a https://news.vt.edu/articles/2025/09/eng-cs-groundbreaking-AI-aims-to-speed-lifesaving-therapies.html">Virginia Tech News</a></b>.</td>
+	<td> Proud to be featured in <b><a href="https://news.vt.edu/articles/2025/09/eng-cs-groundbreaking-AI-aims-to-speed-lifesaving-therapies.html">Virginia Tech News</a></b>.</td>
 	
 </tr>
 
 <tr>
 	<td> <b> May 2025: </b> </td> 
-	<td> <b><a [href="https://www.iscb.org/glbio2025/home](https://doi.org/10.1016/j.cels.2025.101400)">ProRNA3D-Single</a></b> is published in Cell Systems.</td>
+	<td> <b><a href="https://doi.org/10.1016/j.cels.2025.101400">ProRNA3D-Single</a></b> is published in Cell Systems.</td>
 	
 </tr>
 
