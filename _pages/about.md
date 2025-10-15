@@ -29,7 +29,7 @@ table, tr, td {
 
 <tr>
 	<td> <b> October 2025: </b> </td> 
-	<td> A fast scoring function for RNA: PARSEbp <b><a href="https://github.com/Bhattacharya-Lab/PARSEbp">is available in bioRxiv</a></b>.</td>
+	<td> A fast scoring function for RNA: <b><a href="https://github.com/Bhattacharya-Lab/PARSEbp">PARSEbp</a></b> is available in bioRxiv.</td>
 	
 </tr>
 
