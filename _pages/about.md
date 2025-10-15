@@ -40,7 +40,7 @@ table, tr, td {
 </tr>
 
 <tr>
-	<td> <b> May 2025: </b> </td> 
+	<td> <b> September 2025: </b> </td> 
 	<td> <b><a href="https://doi.org/10.1016/j.cels.2025.101400">ProRNA3D-Single</a></b> is published in Cell Systems.</td>
 	
 </tr>
