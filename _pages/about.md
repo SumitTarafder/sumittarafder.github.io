@@ -46,8 +46,8 @@ table, tr, td {
 </tr>
 
 <tr>
-	<td> <b> Sep 2025: </b> </td> 
-	<td> Sub-reviewer at <b><a href="https://biod.whu.edu.cn/bibm2025/">IEE BIBM 2024</a></b>.</td>
+	<td> <b> Aug 2025: </b> </td> 
+	<td> Sub-reviewer at <b><a href="https://biod.whu.edu.cn/bibm2025/">IEE BIBM 2025</a></b>.</td>
 	
 </tr>
 
