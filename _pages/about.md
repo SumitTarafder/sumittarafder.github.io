@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi 👋, I am a fourth-year CS Ph.D. student at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
+Hi 👋, I am a CS Ph.D. candidate at [Virginia Tech](https://www.vt.edu) specializing in the intersection of structural bioinformatics and deep learning. Working with Professor [Debswapna Bhattacharya](https://people.cs.vt.edu/dbhattacharya/), I study RNA and protein-RNA interactions to develop computational methods for the 3D structure prediction, refinement, and quality assessment of these complex macromolecules by exploring deep learning architectures such as GNNs, transformers, and generative models. 
 
-Beyond structural bioinformatics, I am also interested in short/long read based computational methods and their application in genome assembly. Prior to starting my PhD, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/).
+Beyond structural bioinformatics, I am also interested in short/long read-based computational methods and their application in genome assembly. Before starting my PhD, I completed my B.Sc. and M.Sc. in CSE from [BUET](https://www.buet.ac.bd/web/#/).
 
  
 ### **Recent News**
