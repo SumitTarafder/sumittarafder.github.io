@@ -52,7 +52,7 @@ author_profile: true
 ---
 
 [4] Rahmatullah Roche, **Sumit Tarafder**, Parkesh Suseendran, Xiaofeng Wang, Debswapna Bhattacharya <br> 
-<a href="https://doi.org/10.1007/978-1-0716-4828-5_14">"Protein–Protein Interaction Site Prediction via EquiPPIS and Its Application in Studying Viral Replication}"</a>, Protein Evolution: Methods and Protocols, Pages 225--235, November 2025. IF: 1.3
+<a href="https://doi.org/10.1007/978-1-0716-4828-5_14">"Protein–Protein Interaction Site Prediction via EquiPPIS and Its Application in Studying Viral Replication"</a>, Protein Evolution: Methods and Protocols, Pages 225--235, November 2025. IF: 1.3
 
 ---
 
