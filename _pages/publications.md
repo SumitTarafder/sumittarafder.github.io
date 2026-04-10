@@ -19,33 +19,40 @@ author_profile: true
 
 &nbsp;
 
-[9] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-    <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682106v1">"PARSEbp: Pairwise Agreement-based RNA Scoring with Emphasis on Base Pairings"</a>, bioRxiv [[PDF](../files/PARSEbp.pdf)] [[Source](https://github.com/Bhattacharya-Lab/PARSEbp)]<br>
-
----
-
-[8] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+[10] **Sumit Tarafder**, Debswapna Bhattacharya <br>
     <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v2">"RNAbpFlow: Base pair-augmented SE(3)-flow matching for conditional RNA 3D structure generation"</a>, bioRxiv [[PDF](../files/RNAbpFlow.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAbpFlow)]<br>
 
 ---
+    
+[9] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+    <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682106v1">"PARSEbp: Pairwise Agreement-based RNA Scoring with Emphasis on Base Pairings"</a>, bioRxiv [[PDF](../files/PARSEbp.pdf)] [[Source](https://github.com/Bhattacharya-Lab/PARSEbp)]<br>
 
-[7] Rahmatullah Roche, **Sumit Tarafder**, Debswapna Bhattacharya <br>
+
+---
+
+[8] Rahmatullah Roche, **Sumit Tarafder**, Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1016/j.cels.2025.101400">"Single-sequence protein-RNA complex structure prediction by geometric attention-enabled pairing of biological language models"</a>, Cell Systems, 2025. Impact Factor: 7.7 [[PDF](../files/ProRNA.pdf)] [[Source](https://github.com/Bhattacharya-Lab/ProRNA3D-single)]<br>
 
 ---
 
-[6] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+[7] **Sumit Tarafder**, Debswapna Bhattacharya <br>
     <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c01621">"lociPARSE: a locality-aware invariant point attention model for scoring RNA 3D structures"</a>, Journal of Chemical Information and Modeling, Volume 64, Issue 22, Pages 8655–8664, 2024. Impact Factor: 5.7 [[PDF](../files/lociPARSE.pdf)] [[Source](https://github.com/Bhattacharya-Lab/lociPARSE)]<br>
 
 ---
 
-[5] **Sumit Tarafder**, Rahmatullah Roche,  Debswapna Bhattacharya <br>
+[6] **Sumit Tarafder**, Rahmatullah Roche,  Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1093/biomethods/bpae047">"The landscape of RNA 3D structure modeling with transformer networks"</a>, Biology Methods and Protocols, Volume 9, Issue 1, Page 47, 02 July 2024.  Impact Factor: 2.5 [[PDF](../files/RNAMark.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAmark)]<br>
 
 ---
 
-[4] **Sumit Tarafder**, Xinyu Wang, Rahmatullah Roche,  Debswapna Bhattacharya <br>
+[5] **Sumit Tarafder**, Xinyu Wang, Rahmatullah Roche,  Debswapna Bhattacharya <br>
 <a href="https://doi.org/10.1007/978-1-0716-4623-6_9">"Advances in Language-Model-Informed Protein–Nucleic Acid Binding Site Prediction"</a>, Methods in Molecular Biology, protocol, Page 139-151, 03 July 2025.  Impact Factor: 1.3 <br>
+
+
+---
+
+[4] Rahmatullah Roche, **Sumit Tarafder**, Parkesh Suseendran, Xiaofeng Wang, Debswapna Bhattacharya <br> 
+<a href="https://doi.org/10.1007/978-1-0716-4828-5_14">"Protein–Protein Interaction Site Prediction via EquiPPIS and Its Application in Studying Viral Replication}'', \textit{Protein Evolution: Methods and Protocols}, Pages 225--235, November 2025. IF: 1.3
 
 ---
 
