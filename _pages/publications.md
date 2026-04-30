@@ -19,14 +19,17 @@ author_profile: true
 
 &nbsp;
 
-[10] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+[11] **Sumit Tarafder**, Debswapna Bhattacharya <br>
     <a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634669v2">"RNAbpFlow: Base pair-augmented SE(3)-flow matching for conditional RNA 3D structure generation"</a>, bioRxiv [[PDF](../files/RNAbpFlow.pdf)] [[Source](https://github.com/Bhattacharya-Lab/RNAbpFlow)]<br>
 
 ---
     
-[9] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-    <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682106v1">"PARSEbp: Pairwise Agreement-based RNA Scoring with Emphasis on Base Pairings"</a>, bioRxiv [[PDF](../files/PARSEbp.pdf)] [[Source](https://github.com/Bhattacharya-Lab/PARSEbp)]<br>
+[10] **Sumit Tarafder**, Debswapna Bhattacharya <br>
+    <a href="https://doi.org/10.1093/bioadv/vbag112">"PARSEbp: Pairwise Agreement-based RNA Scoring with Emphasis on Base Pairings"</a>, Bioinformatics Advances, 2026. Impact Factor: 2.8 [[PDF](../files/PARSEbp.pdf)] [[Source](https://github.com/Bhattacharya-Lab/PARSEbp)]<br>
 
+---
+[9] Rahmatullah Roche, **Sumit Tarafder**, Debswapna Bhattacharya <br>
+<a href="https://doi.org/10.1016/j.xpro.2026.104502">"A protocol for single-sequence protein-RNA complex structure prediction using ProRNA3D-single"</a>, STAR Protocols, 2026. Impact Factor: 1.3 [[PDF](../files/ProRNA3DSingle_protocol.pdf)] [[Source](https://github.com/Bhattacharya-Lab/ProRNA3D-single)]<br>
 
 ---
 
