@@ -28,7 +28,7 @@ table, tr, td {
 
 
 <tr>
-	<td> <b> June 2026: </b> </td> 
+	<td> <b> June 2026: </b> </td>
 	<td> <b><a href="https://doi.org/10.1038/s41592-026-03128-4">RNAbpFlow</a></b> is published in Nature Methods.</td>
 	
 </tr>
