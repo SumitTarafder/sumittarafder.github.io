@@ -28,6 +28,18 @@ table, tr, td {
 
 
 <tr>
+	<td> <b> June 2026: </b> </td> 
+	<td> <b><a href="https://doi.org/10.1038/s41592-026-03128-4">RNAbpFlow</a></b> is published in Nature Methods.</td>
+	
+</tr>
+
+<tr>
+	<td> <b> June 2026: </b> </td> 
+	<td> I am pleased to receive the Kafura Doctoral Graduate Fellowship award.</td>
+	
+</tr>
+
+<tr>
 	<td> <b> Oct 2025: </b> </td> 
 	<td> A fast scoring function for RNA: <b><a href="https://github.com/Bhattacharya-Lab/PARSEbp">PARSEbp</a></b> is available in bioRxiv.</td>
 	
