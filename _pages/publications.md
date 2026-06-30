@@ -20,7 +20,7 @@ author_profile: true
 &nbsp;
 
 [11] **Sumit Tarafder**, Debswapna Bhattacharya <br>
-    <a href="https://doi.org/10.1038/s41592-026-03128-4"> RNAbpFlow: base pair-augmented SE(3) flow matching for conditional RNA 3D structure generation </a>, <em>Nature Methods</em>, 2026 <br>
+    <a href="https://doi.org/10.1038/s41592-026-03128-4"> RNAbpFlow: base pair-augmented SE(3) flow matching for conditional RNA 3D structure generation </a>, Nature Methods, 2026 <br>
 
 ---
     
